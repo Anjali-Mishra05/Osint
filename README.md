@@ -1,8 +1,6 @@
 # OSINT Social Media Pipeline
 
-A comprehensive **Open Source Intelligence (OSINT) pipeline** for collecting, cleaning, analyzing, and visualizing data from multiple social media platforms.  
-This tool gathers posts, processes the text, performs **sentiment analysis**, and stores the results in a **SQLite database** for further research and insights.
-
+An end-to-end Open Source Intelligence (OSINT) pipeline designed to collect, clean, analyze, and visualize data from multiple social media platforms. It automatically gathers posts, processes the text, performs sentiment analysis, and stores results in a SQLite database for deeper research and insights.
 
 
 ##  Overview
